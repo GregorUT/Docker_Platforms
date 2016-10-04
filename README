@@ -1,0 +1,6 @@
+This repository houses Dockerfiles for various platforms for data acquisitions.
+Unless it is listed here all platforms are based on Linux Docker
+
+Scrapy - Python based web scraping tool based.
+
+
